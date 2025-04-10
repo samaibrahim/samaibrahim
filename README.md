@@ -13,7 +13,7 @@
 🎓 I graduated in **Computer Science** and currently enrolled in the **9-month ITI Web Development Diploma (Scholarship)**.  
 
 📚 **Currently exploring:**  
-`Advanced .NET` | `Angular Best Practices` | `React`
+`Advanced .NET` | `Angular Best Practices`
 
 ---
 
